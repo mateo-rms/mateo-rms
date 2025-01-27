@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mateo-rms
-- 👀 I’m interested in understanding how we can leverage data to among other things, optimise energy consumption, combat disinformation and create tools that make education more accessible and enjoyable. 
+- 👀 I’m interested in understanding how we can leverage data to optimise energy consumption, combat disinformation and create tools that make education more accessible and enjoyable and more
 - 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on any project consistent with some of the targets listed above and more. 
+- 💞️ I’m looking to get some practical experience by collaborating on some data analysis projects. 
 
 <!---
 mateo-rms/mateo-rms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
